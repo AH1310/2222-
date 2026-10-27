@@ -1,0 +1,8 @@
+node_modules/
+.assets/
+.wrangler/
+.dev.vars
+.env*
+backups/
+schema-plan.sql
+schema-inspection.json
